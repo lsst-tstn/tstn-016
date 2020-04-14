@@ -13,11 +13,10 @@ serial_number: "016"
 doc_id: "TSTN-016"
 
 # Title of the document, without the series/serial designation
-doc_title: "Auxiliary Telescope: Determining the sensitivity matrix for hexapod correction using CWFS data"
+doc_title: "Auxiliary Telescope: Determining sensitivity matrix for hexapod correction using CWFS data"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
-  - "Patrick Ingraham"
   - "Tiago Ribeiro"
 
 # Current document revision date, YYYY-MM-DD
